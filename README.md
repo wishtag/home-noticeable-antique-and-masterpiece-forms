@@ -8,6 +8,6 @@ Before installing, **make sure the release is compatible with the current versio
 
 I've tested this myself on my own Pokémon Home account, so you shouldn't get banned for using it. However, if you do get banned, I take no responsibility; that's on you.  
 # Gallery
-<img src="img/showcase.png" alt="Showcase" style="width:auto;">
+<img src="img/showcase.png" alt="Showcase" style="width:100%;">
 
 ![Summary](img/summary.jpg?raw=true)
