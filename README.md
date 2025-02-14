@@ -1,4 +1,4 @@
-# <img src="img/banner.png" alt="Banner" style="width:100%;">
+# <img src="img/banner2.png" alt="Banner" style="width:100%;">
 # Noticeable Antique and Masterpiece Forms
 A simple texture mod for Pokémon Home that makes Sinistea's and Polteageist's Antique forms, Poltchageist's Artisan form, and Sinistcha's Masterpiece form easier to tell apart from their Phony, Counterfeit, and Unremarkable forms.  
 
